@@ -103,15 +103,15 @@ Aplikacja zwraca kod `200 OK` i wyświetla stronę HTML z adresem IP serwera, na
 
 ---
 
-## Zrzut ekranu – przeglądarka
-
-<!-- Wstaw zrzut ekranu z http://localhost:8080 -->
-
----
 
 ## Zatrzymanie kontenera
 
 ```
 docker stop lab5
 docker rm lab5
+```
+##
+```
+Link do dockerhuba:
+https://hub.docker.com/u/bartusiom1
 ```
