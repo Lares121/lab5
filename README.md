@@ -27,5 +27,6 @@ curl http://localhost:8080
 
 ### 4. Zatrzymanie i usunięcie kontenera
 ```bash
-docker stop lab5 && docker rm lab5
+docker stop lab5
+docker rm lab5
 ```
